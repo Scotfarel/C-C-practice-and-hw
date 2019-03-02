@@ -1,0 +1,3 @@
+/home/phantasy/CLionProjects/queueOnStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/phantasy/CLionProjects/queueOnStack/cmake-build-debug/CMakeFiles/queueOnStack.dir
+/home/phantasy/CLionProjects/queueOnStack/cmake-build-debug/CMakeFiles/edit_cache.dir
